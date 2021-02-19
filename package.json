@@ -1,0 +1,17 @@
+{
+  "name": "mybot1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pixelx.js",
+  "scripts": {
+    "start": "node pixelx.js",
+    "devStart": "nodemon pixelx.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
